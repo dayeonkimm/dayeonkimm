@@ -77,7 +77,7 @@
 </h4>
 
 <p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{youngkwangjoo}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/dayeonkimm/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 <img src="https://github.com/dayeonkimm/dayeonkimm/blob/output/github-contribution-grid-snake.svg"/>
 <hr>
