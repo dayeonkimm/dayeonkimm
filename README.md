@@ -8,8 +8,6 @@
 </h3>
 <br>
 <p align="center">
-
-  <br>
   <br>
   🔬 I'm currently studying backend.
   <br>
