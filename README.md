@@ -50,7 +50,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align='center'>
-<img src="https://github.com/dayeonkimm/NohSungwoo/blob/output/github-contribution-grid-snake.svg"/>
  <img src='https://github-readme-stats.vercel.app/api?username=dayeonkimm&show_icons=true'>
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dayeonkimm&layout=compact'>
  <a herf="https://solved.ac/profile/da9066/", target="_blank">
