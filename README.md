@@ -1,7 +1,5 @@
-<h1 align="center">
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1A09F7&center=true&vCenter=true&random=false&width=500&lines=Dayeon+Kim+👩🏻‍💻+🐥;" alt="Typing SVG" /></a>
-</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FA2E1&height=300&section=header&text=Dayeon's%20Github&fontSize=70&fontColor=FFFFFF&animation=twinkling&descSize=30)
+
 <h3 align="center">  
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2dayeonkimm&count_bg=%23D2F3FF&title_bg=%235EEAFF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a><br>
   Hi I'm a developer in South Korea 
