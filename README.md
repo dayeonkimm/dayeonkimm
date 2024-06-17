@@ -197,6 +197,7 @@
 <h4 align="center">
   <a href="https://github.com/dayeonkimm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+<hr>
 
 <p align="center">
 <a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/dayeonkimm/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
