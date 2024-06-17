@@ -54,13 +54,12 @@
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dayeonkimm&layout=compact'>
 
 ### 🧑‍🎓 BAEKJOON
- <a herf="https://solved.ac/profile/da9066/", target="_blank">
-	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=da9066>
- </a>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=da9066)](https://solved.ac/da9066)
 	
 ### 🧑‍🎓 Programmers
 
-[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
+[![](https://github.com/dayeonkimm/github-programmers-rank/blob/main/lib/result.svg)](https://github.com/dayeonkimm/github-programmers-rank)
 </div>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
