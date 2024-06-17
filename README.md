@@ -48,8 +48,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align='center'>
- <img src='https://github-readme-stats.vercel.app/api?username=dayeonkimm&show_icons=true'>
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dayeonkimm&layout=compact'>
+ <img height="180" src='https://github-readme-stats.vercel.app/api?username=dayeonkimm&show_icons=true'>
+ <img height="180" src='https://github-readme-stats.vercel.app/api/top-langs/?username=dayeonkimm&layout=compact'>
 
 ### 🧑‍🎓 BAEKJOON
 [![Solved.ac
