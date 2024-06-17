@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1A09F7&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+Everyone!++%E2%9C%8B;I'm+Dayeon+Kim+👩🏻‍💻;Nice+to+Meet+You!" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">  
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoonHoSeong&count_bg=%23D2F3FF&title_bg=%235EEAFF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a><br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2dayeonkimm&count_bg=%23D2F3FF&title_bg=%235EEAFF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a><br>
   Hi I'm a developer in South Korea 
 </h3>
 <br>
@@ -76,5 +76,8 @@
   <a href="https://github.com/dayeonkimm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+<p align="center">
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{youngkwangjoo}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+</p>
 <img src="https://github.com/dayeonkimm/dayeonkimm/blob/output/github-contribution-grid-snake.svg"/>
 <hr>
