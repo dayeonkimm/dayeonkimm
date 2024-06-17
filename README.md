@@ -75,4 +75,6 @@
 <h4 align="center">
   <a href="https://github.com/dayeonkimm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<img src="https://github.com/dayeonkimm/dayeonkimm/blob/output/github-contribution-grid-snake.svg"/>
 <hr>
