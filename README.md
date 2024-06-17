@@ -52,9 +52,10 @@
 <div align='center'>
  <img src='https://github-readme-stats.vercel.app/api?username=dayeonkimm&show_icons=true'>
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dayeonkimm&layout=compact'>
- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=da9066)](https://solved.ac/da9066)
+<a herf="https://solved.ac/profile/da9066/", target="_blank">
+<!-- 	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=da9066> -->
 </a>
+
 
 </div>
 <hr>
