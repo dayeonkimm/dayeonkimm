@@ -63,21 +63,18 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div align='center'>
- <a href='https://github.com/JoonHoSeong/OZ_Backend_School_miniProject'>
-  <image src='https://github-readme-stats.vercel.app/api/pin/?username=JoonHoSeong&repo=OZ_Backend_School_miniProject'>
+ <a href='https://github.com/dayeonkimm/OZ'>
+  <image src='https://github-readme-stats.vercel.app/api/pin/?username=dayeonkimm&repo=OZ'>
  </a>
-  <a href='https://github.com/JoonHoSeong/OZ_Backend_School'>
-  <image src='https://github-readme-stats.vercel.app/api/pin/?username=JoonHoSeong&repo=OZ_Backend_School'>
+  <a href='https://github.com/dayeonkimm/CodingTest_Practice'>
+  <image src='https://github-readme-stats.vercel.app/api/pin/?username=dayeonkimm&repo=CodingTest_Practice'>
  </a>
- <a href='https://github.com/JoonHoSeong/Seoul_Commercial_District_Analysis'>
-  <image src='https://github-readme-stats.vercel.app/api/pin/?username=JoonHoSeong&repo=Seoul_Commercial_District_Analysis'>
- </a>
-  <a href='https://github.com/JoonHoSeong/Java_Study'>
-  <image src='https://github-readme-stats.vercel.app/api/pin/?username=JoonHoSeong&repo=Java_Study'>
+ <a href='https://github.com/JoonHoSeong/Collabonate-SideProject'>
+  <image src='https://github-readme-stats.vercel.app/api/pin/?username=JoonHoSeong&repo=Collabonate-SideProject'>
  </a>
 </div>
 
 <h4 align="center">
-  <a href="https://github.com/JoonHoSeong?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/dayeonkimm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 <hr>
