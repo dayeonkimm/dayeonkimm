@@ -169,14 +169,14 @@
 <div align='center'>
  <img height="180" src='https://github-readme-stats.vercel.app/api?username=dayeonkimm&show_icons=true'>
  <img height="180" src='https://github-readme-stats.vercel.app/api/top-langs/?username=dayeonkimm&layout=compact'>
-
-### 🧑‍🎓 BAEKJOON
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=da9066)](https://solved.ac/da9066)
 	
 ### 🧑‍🎓 Programmers
 
 [![](https://github.com/dayeonkimm/github-programmers-rank/blob/main/lib/result.svg)](https://github.com/dayeonkimm/github-programmers-rank)
+
+### 🧑‍🎓 BAEKJOON
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=da9066)](https://solved.ac/da9066)
 </div>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
