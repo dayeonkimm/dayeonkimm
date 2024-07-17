@@ -188,10 +188,13 @@
   <a href='https://github.com/dayeonkimm/CodingTest_Practice'>
   <image src='https://github-readme-stats.vercel.app/api/pin/?username=dayeonkimm&repo=CodingTest_Practice'>
  </a>
- <a href='https://github.com/JoonHoSeong/Collabonate-SideProject'>
-  <image src='https://github-readme-stats.vercel.app/api/pin/?username=JoonHoSeong&repo=Collabonate-SideProject'>
+  <a href='https://github.com/OZ-Coding-School/oz_03_main-004-BE'>
+ <image src='https://github-readme-stats.vercel.app/api/pin/?username=OZ-Coding-School&repo=oz_03_main-004-BE'>
+</a>
+ <a href='https://github.com/NewsCoCo/NewsCoCo'>
+<image src='https://github-readme-stats.vercel.app/api/pin/?username=NewsCoCo&repo=NewsCoCo'>
  </a>
-</div>
+  </div>
 
 <h4 align="center">
   <a href="https://github.com/dayeonkimm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
