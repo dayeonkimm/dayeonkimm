@@ -10,7 +10,7 @@
   <br>
   🎓 I graduated from Hongik University and majored in Chemical Engineering.
   <br>
-  💻 I love coding and learning new things.
+  💻 I love coding and learning new things!
   <br>
   <br>
   📫 How to reach me: <a href="mailto: ekdyd516@gmail.com">ekdyd516@gmail.com</a>
