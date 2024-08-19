@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FA2E1&height=300&section=header&text=🐯+dayeon%20kimm+🐯&fontSize=70&fontColor=FFFFFF&animation=twinkling&descSize=30)
+
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=15&text=🐯dayeonkimm&section=header&textBg=false&fontColor=f3f5ff&fontSize=75&animation=fadeIn&rotate=0&strokeWidth=0&desc=Backend%20developer&descAlign=58&descAlignY=61&descSize=18">
 
 <h3 align="center">  
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2dayeonkimm&count_bg=%23D2F3FF&title_bg=%235EEAFF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a><br>
