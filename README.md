@@ -141,6 +141,10 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
  </tr>
 </table>
 <br><br>
@@ -152,7 +156,7 @@
 <br>
 <div align='center'>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,kubernetes)](https://skillicons.dev)
 
 <!--  <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'> -->
 </div>
